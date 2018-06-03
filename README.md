@@ -10,3 +10,10 @@
 
 #And I described beneficial website I referred to for beginners under this script.
 #以下に私が参考にした初心者に有益なウェブサイトの説明を載せています。
+#
+#Udemy(online course)
+#'https://www.udemy.com'
+#様々なオンラインコースが公開されています。英語が多いですが、日本語でのコースもありますし字幕付きのものも多いです。いつもセールをしていて安いです。
+#
+#Now edditing!!
+#現在加筆修正中！！
