@@ -1,5 +1,5 @@
 # Titanic_Disaster_Train
-# タイタニック号の悲劇の解析と考察！(日本語
+# タイタニック号の悲劇の解析と考察！(日本語解説)
 ## This repository is a practice and some consideration about a famous tutorial that is Titanic Disaster analysis in data science and ML.
 ## I was a totally newbie about programing and data science 2 month ago and struggled with writing some easy program.
 ## But, thanks to good tutorial in many websites and advices from my friends, I become to analyse a data and visualize it effectively now.
