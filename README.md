@@ -17,7 +17,6 @@ And under this script, I described beneficial websites I referred to for beginne
   
 ## Udemy(online course)
 'https://www.udemy.com'  
-様々なオンラインコースが公開されています。英語が多いですが、日本語でのコースもありますし字幕付きのものも多いです。いつもセールをしていて安いです。  
+様々なオンラインコースが公開されています。英語が多いですが、日本語でのコースもありますし字幕付きのものも多いです。よくセールをしていて安いです。  
   
-## Now edditing!!
-## 現在加筆修正中！！
+
